@@ -1,0 +1,23 @@
+h1 {
+    font-size: 65px;
+}
+
+.back-image1 {
+    background-image: url(../images/cover/cover-1.png);
+    height: 100vh;
+    color: white;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+.back-image2 {
+    background-image: url(../images/cover/cover-2.jpg);
+    height: 100vh;
+    color: white;
+}
+
+.back-image3 {
+    background-image: url(../images/cover/cover-3.jpg);
+    height: 100vh;
+    color: white;
+}
