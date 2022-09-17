@@ -34,7 +34,7 @@ h1 {
 
 @media screen (min-width:482px) and (max-width: 792px) {
     .resp-flex {
-        display: flex;
+        display: flex !important;
     }
 
 }
