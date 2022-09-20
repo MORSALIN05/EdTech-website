@@ -41,14 +41,21 @@ section {
     background-repeat: no-repeat;
 }
 
-/* frequntly asked question */
-.accord-padd {
-    padding-left: 300px !important;
-    padding-right: 300px !important;
-    margin-top: 20px !important;
+/* Footer style */
+.footer {
+    background-color: black;
+    color: white;
 }
 
-@media only screen and (max-width:481px) {}
+/* frequntly asked question */
+
+@media only screen and (min-width:992px) {
+    .accord-padd {
+        padding-left: 250px;
+        padding-right: 250px;
+        margin-top: 20px;
+    }
+}
 
 /* for mobile device */
 @media only screen and (max-width: 576px) {
