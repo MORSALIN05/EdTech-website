@@ -13,34 +13,6 @@ h1 {
 
 }
 
-.back-image1 {
-    background-image: url(../images/cover/cover-1.png);
-    height: 100vh;
-    color: white;
-    font-weight: 800;
-    border-radius: 5px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.back-image2 {
-    background-image: url(../images/cover/cover-2.jpg);
-    height: 100vh;
-    color: white;
-    font-weight: 800;
-    border-radius: 5px;
-    background-repeat: no-repeat;
-}
-
-.back-image3 {
-    background-image: url(../images/cover/cover-3.jpg);
-    height: 100vh;
-    color: white;
-    font-weight: 800;
-    border-radius: 5px;
-    background-repeat: no-repeat;
-}
-
 /* space between course inside */
 .spce-between {
     justify-content: space-between;
