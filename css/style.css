@@ -41,6 +41,15 @@ h1 {
     background-repeat: no-repeat;
 }
 
+/* space between course inside */
+.spce-between {
+    justify-content: space-between;
+}
+
+.d-flex {
+    gap: 10px;
+}
+
 /* Footer style */
 .footer {
     margin-top: 5px !important;
