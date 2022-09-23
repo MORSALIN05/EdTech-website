@@ -13,6 +13,10 @@ section {
 
 }
 
+.checked {
+    color: rgb(219, 134, 22);
+}
+
 /* space between course inside */
 .spce-between {
     justify-content: space-between;
