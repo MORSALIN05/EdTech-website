@@ -17,6 +17,10 @@ section {
     color: rgb(219, 134, 22);
 }
 
+.unchecked {
+    color: rgb(230, 202, 114);
+}
+
 /* space between course inside */
 .spce-between {
     justify-content: space-between;
